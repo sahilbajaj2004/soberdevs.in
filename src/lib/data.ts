@@ -14,7 +14,7 @@ export const SITE = {
   phoneHref: "tel:+918595105597",
   maps: "https://maps.app.goo.gl/D67JebTSFPXe7iPN7",
   socials: [
-    { label: "GitHub", href: "https://github.com/soberdev" },
+    { label: "GitHub", href: "https://github.com/soberdevs" },
     { label: "LinkedIn", href: "https://www.linkedin.com/company/soberdev" },
     { label: "Email", href: "mailto:contact@soberdev.in" },
   ],
